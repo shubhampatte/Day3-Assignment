@@ -4,7 +4,7 @@ public class EmployeeWage
 	public static void main(String args[])
 	{
 
-		System.out.println("Welcome to Employee Wage Part time Program");
+		System.out.println("Welcome to Employee Wage Switch case Program");
 	}
 
 }
