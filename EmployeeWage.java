@@ -1,4 +1,5 @@
 
+
 public class EmployeeWage
 {
 	public static void main(String args[])
@@ -6,5 +7,4 @@ public class EmployeeWage
 
 		System.out.println("Welcome to Employee Wage Switch case Program");
 	}
-
 }
